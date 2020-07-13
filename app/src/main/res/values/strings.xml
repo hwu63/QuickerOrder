@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">QuickerOrder</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="title_activity_main_service">MainService</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+
+    <string name="full_menu">Full Menu</string>
+
+    <string name="call_service">Call Service</string>
+    <string name="recommendation">Recommendation</string>
+
+
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="shake">Shake the phone or click button below to call service</string>
+    <string name="add_to_cart">add to cart</string>
+    <string name="delete">delete</string>
+    <string name="description">description</string>
+    <string name="price">Price</string>
+    <string name="name">Name</string>
+    <string name="close">Close</string>
+    <string name="todo">TODO</string>
+    <string name="the_picture_of_the_dish">the picture of the dish</string>
+    <string name="textview">TextView</string>
+    <string name="_1">1</string>
+    <string name="remove">Remove</string>
+    <string name="splash" />
+    <string name="a_delicious_dish">A delicious dish.</string>
+</resources>
